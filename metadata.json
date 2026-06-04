@@ -1,0 +1,8 @@
+{
+  "name": "Photo Landmark AR Tour",
+  "description": "An immersive photo tourism app that recognizes landmarks, searches their history, and overlays AR narrator clips.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
